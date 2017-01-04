@@ -1,0 +1,19 @@
+{
+  "name": "electronbuildertest",
+  "version": "1.0.0",
+  "description": "electronbuildertest",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Solomon-m/electronbuildertest.git"
+  },
+  "author": "solomon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Solomon-m/electronbuildertest/issues"
+  },
+  "homepage": "https://github.com/Solomon-m/electronbuildertest#readme"
+}
